@@ -1,0 +1,16 @@
+{
+  "name": "mogo-website",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "build:less": "lessc ./less/style.less ./style.css"
+  },
+  "author": "Nekit",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "less": "^3.10.3"
+  }
+}
